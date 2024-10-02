@@ -1,4 +1,4 @@
-# Customer_churn_prediction_machine_learning
+# Ecommerce-ML-Churn-User[Python]
 # I. Introduction
 ## 1. About the project
 - This project focuses on building a machine learning model to predict customer churn for an e-commerce company. Customer churn is a significant issue that directly affects the revenue and growth of a business. By accurately predicting customers who are at high risk of churning, businesses can proactively implement customer retention strategies. The goal of the project is to build a reliable predictive model that provides insights to reduce churn rates and improve customer loyalty.
